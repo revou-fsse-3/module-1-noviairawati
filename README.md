@@ -1,4 +1,4 @@
-# Hi, Welcome to my profile 👋
+# Hi, Welcome to my Profile 👋
 
 ![Photo Profile](profile.JPG)
 
@@ -6,7 +6,6 @@ I'm _Novia Irawati_. Now, I'm a student on [Revou](https://revou.com). I'm learn
 
 ## I'm currently working as:
 🚀 CRM support
-
 🚀 Tester Omni Channel and CRM.
 
 ## I'm Currently learning:
@@ -20,7 +19,6 @@ I'm _Novia Irawati_. Now, I'm a student on [Revou](https://revou.com). I'm learn
 8. [v] Web Security
 9. [v] Database
 
-
 ## Language & Tools
 | Language | Tools |
 | ----------- | ----------- |
@@ -32,9 +30,9 @@ I'm _Novia Irawati_. Now, I'm a student on [Revou](https://revou.com). I'm learn
 
 
  ## Let's Connect:
-- [Github] (https://github.com/noviairawati)
-- [Linked In] (https://linkedin.com/in/noviairawati)
-- [Instagram] (https://instagram.com/noviairawati17)
+- [Github](https://github.com/noviairawati)
+- [Linked In](https://linkedin.com/in/noviairawati)
+- [Instagram](https://instagram.com/noviairawati17)
 
 ## Interests:
 - Listening Music
@@ -43,4 +41,4 @@ I'm _Novia Irawati_. Now, I'm a student on [Revou](https://revou.com). I'm learn
 ## My favourite Quote:
 > "The future belongs to those who believe in the beauty of their dreams", Elanor Roosevelt
 
-Lets get to know each other
+Lets get to know each other :joy:
