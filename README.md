@@ -6,6 +6,7 @@ I'm _Novia Irawati_. Now, I'm a student on [Revou](https://revou.co/software-eng
 
 ## I'm currently working as:
 🚀 CRM support
+
 🚀 Tester Omni Channel and CRM.
 
 ## I'm Currently learning:
