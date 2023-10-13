@@ -2,7 +2,7 @@
 
 ![Photo Profile](profile.JPG)
 
-I'm _Novia Irawati_. Now, I'm a student on [Revou](https://revou.com). I'm learning **Full Stack Software Engineering**. I want to switch carrer as a Web Developer. Everyday I try to live in code and read documentation.
+I'm _Novia Irawati_. Now, I'm a student on [Revou](https://revou.co/software-engineering?&eid=1697205673753&targeting=1&cat=D&x6=K). I'm learning **Full Stack Software Engineering**. I want to switch carrer as a Web Developer. Everyday I try to live in code and read documentation.
 
 ## I'm currently working as:
 🚀 CRM support
