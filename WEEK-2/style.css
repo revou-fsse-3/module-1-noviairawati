@@ -252,7 +252,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(../WEEK-2/IMG/background.jpg) no-repeat;
+    background: url(../WEEK-2/IMG/coffestore.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -276,7 +276,7 @@ section {
 }
 
 
-/* About */
+/* About: Row-Image-Content */
 .about .row {
     display: flex;
     align-items: center;
@@ -311,7 +311,7 @@ section {
 }
 
 
-/* Menu */
+/* Menu : box-container */
 
 .menu .box-container {
     display: grid;
