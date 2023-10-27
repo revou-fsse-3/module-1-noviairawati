@@ -437,7 +437,6 @@ section {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
     gap: 1.5rem;
-
 }
 
 
@@ -475,7 +474,7 @@ section {
 }
 
 
-/* Contact */
+/* Contact: row-map-inputBox */
 
 .contact .row {
     display: flex;
@@ -540,7 +539,7 @@ section {
 }
 
 
-/* Blogs */
+/* Blogs : box-image*/
 
 .blogs .box-container {
     display: grid;
@@ -550,7 +549,6 @@ section {
 
 .blogs .box-container .box {
     border: var(--border);
-
 }
 
 
@@ -558,7 +556,6 @@ section {
     height: 25rem;
     overflow: hidden;
     width: 100%;
-
 }
 
 .blogs .box-container .box .image img {
@@ -570,6 +567,10 @@ section {
 
 .blogs .box-container .box:hover .image img {
     transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
 }
 
 .blogs .box-container .box .content {
@@ -603,7 +604,7 @@ section {
 
 
 
-/* Footer*/
+/* Footer: share-links*/
 
 .footer {
     background: var(--black);
@@ -624,6 +625,10 @@ section {
     border: var(--border);
     margin: .3rem;
     border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
 }
 
 
@@ -645,7 +650,6 @@ section {
     color: #fff;
     border: var(--border);
     font-size: 2rem;
-
 }
 
 
