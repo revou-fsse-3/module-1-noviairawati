@@ -2,32 +2,27 @@ body{
     background-color: teal;
 }
 
-.search {
-    float: right;
-    }
-
-.nav{
-    position: fixed;
-    top: 0;
-    width: 100;
-    height: 50px;
-    background-color: darkgrey;
+/* header styling start */
+.header .navbar a {
+    margin: 0 10px;
+    font-size:20px;
+    color: #fff;
 }
 
-.nav ul li {
-    display: inline-block;
-    line-height: 45px;
+.header .navbar a:hover {
+    color: blue;
+    border-bottom: 20px solid black;
+    padding-bottom: 15px;
 }
 
-.nav ul li a{
-    color: #fff
-    padding: 10px;
-    text-decoration: none;
+.home{
+    align-items: center;
 }
 
-.nav ul li a:hover {
-    text-decoration: underline;
+.header .search-form {
+    align-items: right;
 }
+
 .aboutfruit {
     width: 960px;
     margin: 50px auto;
@@ -40,6 +35,54 @@ body{
 .header p {
     margin-top: 10px;
 }
+
+
+.contact .row {
+    display: flex;
+    align-items: center;
+    background: black;
+    flex-wrap: wrap;
+    gap: 160px;
+}
+
+
+.contact .row form {
+    flex: 1 1 45rem;
+    padding: 5rem 2rem;
+    text-align: center;
+}
+
+.contact .row form h3 {
+    text-transform: uppercase;
+    font-size: 3.5rem;
+    color: #fff;
+}
+
+.contact .row form .inputBox {
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background: black;
+    border: 20px 40px;
+}
+
+.contact .row form .inputBox span {
+    color: #fff;
+    font-size: 2rem;
+    padding-left: 2rem;
+
+}
+
+.contact .row form .inputBox input {
+    width: 100%;
+    padding: 2rem;
+    font-size: 1.7rem;
+    color: #fff;
+    text-transform: none;
+    background: none;
+}
+
 
 .hero {
     background-position: center;
@@ -83,15 +126,17 @@ hr{
 
     img{
         object-fit: cover;
+        width: 100%;
     }
 
     .grid > article{
-        box-shadow: 10px 5px 5 0px; #0F0F0F
+        box-shadow: 10px 5px 5 0px;
         border-radius: 30px;
         text-align: center;
         background: whitesmoke;
         width: 300px;
         transition: transform;
+
 }
     
     
