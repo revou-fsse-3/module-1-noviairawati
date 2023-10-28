@@ -27,20 +27,6 @@ I'm _Novia Irawati_. Now, I'm a student on [Revou](https://revou.co/software-eng
 | `Typescript`  | `Github`                       |
 | `Phyton`      |`GitBash`                       |
 
- ## Let's Connect:
-- [Github](https://github.com/noviairawati)
-- [Linked In](https://linkedin.com/in/noviairawati)
-- [Instagram](https://instagram.com/noviairawn)
-
-## Interests:
-- Listening Music
-- Sales
-
-## My favourite Quote:
-> "The future belongs to those who believe in the beauty of their dreams", Elanor Roosevelt
-
-Lets get to know each other :joy:
-
 
 ## My Assigment
 ## [Health Article](https://wonderful-bienenstitch-485690.netlify.app)
@@ -49,4 +35,18 @@ I created a simple website with theme: Health Article
 The Content will include healthy lifestyle, the benefits of fruits and vegetables, health tips and healthy food recipes.
 
 ## [Coffee Store](https://dynamic-vacherin-47a8dc.netlify.app)
-This assigment, I make simple website coffe shop theme. I use HTML, CSS and Javascript.
+This assigment, I make Responsive website with theme: Coffee Store. I use HTML, CSS and Javascript.
+
+## Interests:
+- Listening Music
+- Sales
+
+ ## Let's Connect:
+- [Github](https://github.com/noviairawati)
+- [Linked In](https://linkedin.com/in/noviairawati)
+- [Instagram](https://instagram.com/noviairawn)
+
+## My favourite Quote:
+> "The future belongs to those who believe in the beauty of their dreams", Elanor Roosevelt
+
+Lets get to know each other :)
