@@ -43,10 +43,10 @@ Lets get to know each other :joy:
 
 
 ## My Assigment
-## Health Article
+## [Health Article](https://wonderful-bienenstitch-485690.netlify.app)
 This assigment for week 1, I make a simple website with HTML and CSS.
 I created a simple website with theme: Health Article
 The Content will include healthy lifestyle, the benefits of fruits and vegetables, health tips and healthy food recipes.
 
-## Coffee Store
+## [Coffee Store](https://dynamic-vacherin-47a8dc.netlify.app)
 This assigment, I make simple website coffe shop theme. I use HTML, CSS and Javascript.
